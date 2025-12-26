@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+  background-color: #0c5f60;
+}
+
+body {
+  min-height: 100vh;
+  margin: 0;
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  color: #f6f7fb;
+  background: #0c5f60;
+}
+
+a {
+  color: inherit;
+}
+
+
